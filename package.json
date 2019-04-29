@@ -1,0 +1,13 @@
+{
+  "id": "kanbanflow",
+  "name": "KanbanFlow",
+  "version": "0.1.0",
+  "description": "KanbanFlow",
+  "main": "index.js",
+  "author": "Mario Dominguez <opeshm@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/opeshm/",
+  "config": {
+    "serviceURL": "https://kanbanflow.com/"
+  }
+}
